@@ -4,7 +4,7 @@
 
 Stop text-to-speech alerts by your favorite hotkey!
 
-Forked from [kc5nra/obs-browser]("https://github.com/kc5nra/obs-browser") and enchanted with Hotkeys support.
+Forked from [kc5nra/obs-browser](https://github.com/kc5nra/obs-browser) and enchanted with Hotkeys support.
 
 ## Installation
 
